@@ -1,3 +1,4 @@
+import * as brain from 'brainjs';
 const colors = [
     { green: 0.2, blue: 0.4 },
     { green: 0.4, blue: 0.6 },
